@@ -1,21 +1,93 @@
 [
-		 {
-   "title":"تسريحات الشعر",
+		  {
+    "title":"تسريحات الشعر سهلة",
     "drawable":"",
-    "submenu":"هنا التسريحات",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"إبداعات ibda3at II",
+        "provider":"youtube",
+        "arguments":[
+          "UCgokeLXOBVyCk2B7hJjK9cA",
+          "channel"
+		]
+	       }
+	    ,
+	     {
+        "title":"روانه Rawana",
+        "provider":"youtube",
+        "arguments":[
+          "UCT9HCPqXTmEf84dEUDr44eQ",
+          "channel"
+		]
+	       }
+	    ,
+	    
+	     {
+        "title":"NorMina - مجلة نورمينا",
+        "provider":"youtube",
+        "arguments":[
+          "UCABynHp3mREQKDXx4gyyCXA",
+          "channel"
+		]
+	       }
+	    ,
+	       {
+        "title":"حواء Tv",
+        "provider":"youtube",
+        "arguments":[
+          "UCFbU05UvawdNQNqPuE1NYxA",
+          "channel"
+		]
+	       }
+	    ,
+	       {
+        "title":"Hayla TV ",
+        "provider":"youtube",
+        "arguments":[
+          "UCJlR_vpux2H2Y9fdZS9-e_A",
+          "channel"
+		]
+	       }
+	    ,
+	      {
+        "title":"Oumaima's Space فضاء أميمة",
+        "provider":"youtube",
+        "arguments":[
+          "UCrSCc686QLRBOxMxaQeMU0Q",
+          "channel"
+		]
+	       }
+	        ,
+	      {
+        "title":"Nora Beauty",
+        "provider":"youtube",
+        "arguments":[
+          "UCflqf6d0VbOysoz091-wHNQ",
+          "channel"
+		]
+	       }
+	    
+        ]
+      }
+	,  
+	 
+  {
+    "title":"Videos",
+    "drawable":"",
+    "submenu":"Other",
     "iap":false,
     "tabs":[
       {
-        "title":"WebView",
-        "provider":"webview",
+        "title":"Categories",
+        "provider":"overview",
         "arguments":[
-          "https://fustany.com/ar/tags/%D8%AA%D8%B3%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%B4%D8%B9%D8%B1"
+          "overview.json"
         ]
       }
     ]
-
-  }
-	,
+  },
 
   {
     "title":"A propos",
