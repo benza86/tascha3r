@@ -6,618 +6,73 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":"Ligue Clubiste TV",
+        "title":"إبداعات ibda3at II",
         "provider":"youtube",
         "arguments":[
-          "UCnVNi_NYugGLP29bB8YH_nQ",
+          "UCgokeLXOBVyCk2B7hJjK9cA",
           "channel"
 		]
 	       }
 	    ,
 	     {
-        "title":"اخر الأخبار",
+        "title":"روانه Rawana",
         "provider":"youtube",
         "arguments":[
-          "UCiPSs-2vxzLNaoWYPahH0Yg",
+          "UCT9HCPqXTmEf84dEUDr44eQ",
           "channel"
 		]
 	       }
 	    ,
 	    
 	     {
-        "title":"YouClubiste [chaîne officielle]",
+        "title":"NorMina - مجلة نورمينا",
         "provider":"youtube",
         "arguments":[
-          "UCdNqLSt-7wG-tRlhf5ZVMRA",
+          "UCABynHp3mREQKDXx4gyyCXA",
           "channel"
 		]
 	       }
 	    ,
 	       {
-        "title":"Ligue Clubiste TV",
+        "title":"حواء Tv",
         "provider":"youtube",
         "arguments":[
-          "UCR2JCBXasHJ6YQTi9ac4AWQ",
+          "UCFbU05UvawdNQNqPuE1NYxA",
           "channel"
 		]
 	       }
 	    ,
 	       {
-        "title":"Club Africain Youtube",
+        "title":"Hayla TV ",
         "provider":"youtube",
         "arguments":[
-          "UCEDXR5aarXwt-3kdKbpmASw",
+          "UCJlR_vpux2H2Y9fdZS9-e_A",
           "channel"
 		]
 	       }
 	    ,
 	      {
-        "title":"club africain fans",
+        "title":"Oumaima's Space فضاء أميمة",
         "provider":"youtube",
         "arguments":[
-          "UCh95H9qpSvMQ00kr8JJac-A",
+          "UCrSCc686QLRBOxMxaQeMU0Q",
           "channel"
 		]
 	       }
 	        ,
 	      {
-        "title":"ملخصات بي اين",
+        "title":"Nora Beauty",
         "provider":"youtube",
         "arguments":[
-          "UC3OXMztcdu-zHHiPrXxXqIw",
+          "UCflqf6d0VbOysoz091-wHNQ",
           "channel"
 		]
 	       }
 	    
         ]
-      },  
-	
-	 {
-   "title":"النتائج",
-    "drawable":"",
-    "submenu":"نتائج المباريات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.footmercato.net/club/c3479_club-africain/calendrier"
-        ]
       }
-    ]
-
-  }
-	,
-	  {
-   "title":"الترتيب",
-    "drawable":"",
-    "submenu":"نتائج المباريات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.goal.com/fr/equipe/club-africain/classement/9s0ojv8sdlnx3g7ugpyddejlz"
-        ]
-      }
-    ]
-
-  },
-		
-	  {
-   "title":"المنتخب",
-    "drawable":"",
-    "submenu":"نتائج المباريات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://sport.tunisienumerique.com/football/qualifications-can-cameroun-2019/calendrier-resultats/"
-        ]
-      }
-    ]
-
-  },	
-	
-  {
-   "title":" بث مباشر",
-    "drawable":"",
-    "submenu":"شاهد المباريات الأوروبية مباشرة ",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://kora-online.tv/"
-        ]
-      }
-    ]
-
-  }
-	,
-	   {
-    "title":"بث مباشر 2",
-    "drawable":"",
-    "submenu":"شاهد المباريات الأوروبية مباشرة ",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.as-goal.com"
-        ]
-      }
-    ]
-	    }
-	,
-	 {
-   "title":"الوطنية 1",
-    "drawable":"",
-    "submenu":"بث مباشر لمباريات النادي الافريقي",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	    ,
-	 {
-   "title":"الوطنية 2",
-    "drawable":"",
-    "submenu":"بث مباشر لمباريات النادي الافريقي",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpi6k7ycw_r3wVYHooTu1MTA",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	,
-	    {
-   "title":"Ligue Clubiste",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.ligueclubiste.com/sitear/"
-        ]
-  }
-	           ]
-  },
-		    {
-   "title":"الموقع الرسمي",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.clubafricain.net/"
-        ]
-  }
-	           ]
-  },
-	  {
-   "title":"Nessma Sport CA",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.nessma.tv/fr/news_tag/club-africain/"
-        ]
-      }
-    ]
-
-  },	 
-  	
-	    
-	  {
-   "title":"الصباح",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.assabahnews.tn/tags/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
-        ]
-      }
-    ]
-
-  },
-	  {
-   "title":"Kapitalis (FR)",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://kapitalis.com/tunisie/tag/club-africain/"
-        ]
-      }
-    ]
-
-  },
-	  {
-   "title":"تورس نيوز",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.turess.com/search/%D8%AC%D8%AF%D9%8A%D8%AF+%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A+%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
-        ]
-      }
-    ]
-
-  },
-	
-	  {
-   "title":"Kora",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://kora.com/ar/tunisia/club-africain/"
-        ]
-      }
-    ]
-
-  },
-	  {
-   "title":"أخبارك",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.akhbarak.net/tags/1738-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
-        ]
-      }
-    ]
-
-  },
-		  {
-   "title":"Mosaique FM",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.mosaiquefm.net/ar/actualites/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/68"
-        ]
-      }
-    ]
-
-  },	
-	    {
-   "title":"Attasia Sport CA",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.attessia.tv/tags/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
-        ]
-      }
-    ]
-
-  },
-	  {
-   "title":"Kora",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://kora.com/ar/tunisia/club-africain/"
-        ]
-      }
-    ]
-
-  },
- 	  {
-   "title":"كرة السلة",
-    "drawable":"",
-    "submenu":"الفروع الاخري",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.ligueclubiste.com/sitear/?cat=12"
-        ]
-      }
-    ]
-
-  },
-		  {
-   "title":"كرة اليد",
-    "drawable":"",
-    "submenu":"الفروع الاخري",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.ligueclubiste.com/sitear/?cat=11"
-        ]
-      }
-    ]
-
-  },
-		  {
-   "title":"كرة الطائرة",
-    "drawable":"",
-    "submenu":"الفروع الاخري",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.ligueclubiste.com/sitear/?cat=59"
-        ]
-      }
-    ]
-
-  },
-		  {
-   "title":"الشبان",
-    "drawable":"",
-    "submenu":"الفروع الاخري",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.ligueclubiste.com/sitear/?cat=10"
-        ]
-      }
-    ]
-
-  },
-	
- {
-    "title":"ملخصات و أهداف",
-    "drawable":"",
-    "submenu":"فيديوهات",
-    "iap":false,
-    "tabs":[
-     {
-	"title":"الاستوديو التحليلي",
-        "provider":"youtube",
-        "arguments":[
-          "UCqXVEbCxzMh-Xljo7ApVgTQ",
-          "channel"
-        ]
- 
-      },
-	         {
-	"title":"كواليس كأس العالم",
-        "provider":"youtube",
-        "arguments":[
-          "UCwnMlne83-VQMTdIgsp6luA",
-          "channel"
-        ]
- 
-      },
-	     
-      {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      },
-	        	  {
-        "title": " English Highlights",
-        "provider":"youtube",
-        "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
-
-        ]
-      },
-	       {
-        "title":"كواليس المونديال",
-        "provider":"youtube",
-        "arguments":[
-          "UCe9Wb6D8SQR0gyNfgNLZaiw",
-          "channel"
-        ]
-      },
-	        {
-        "title":"كواليس المغرب",
-        "provider":"youtube",
-        "arguments":[
-          "UC3_N5eFRpGNhW9VnwQlvQWg",
-          "channel"
-        ]
-      },
-	 {
-        "title":"كواليس تونس",
-        "provider":"youtube",
-        "arguments":[
-          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
-          "playlist"
-
-        ]
-      },
-	          {
-        "title":"كواليس مصر",
-        "provider":"youtube",
-        "arguments":[
-          "UCWLo4r-9_x4GCJCFShNFq0A",
-          "channel"
-
-        ]
-      },
-	    
- {
-        "title":"مقتطفات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      },
-   {
-        "title":" ملخصات انجليزي",
-        "provider":"youtube",
-        "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
-
-        ]
-      },
-	  
-	     
-	     
-      {
-	"title":"Highlights",
-        "provider":"youtube",
-        "arguments":[
-          "UCShPR_51eeEfreqNnRBLJ2Q",
-          "channel"
-        ]
- 
-      },
-	      {
-        "title":"English",
-        "provider":"youtube",
-        "arguments":[
-          "UCQ8teRDg67faTu56c2l_IYA",
-          "channel"
-
-        ]
-      },
+	,  
 	 
-	  
-	  	  	   {
-        "title":"LIGA",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
-
-        ]
-      },
-	  	   {
-        "title":"Ligue1",
-        "provider":"youtube",
-        "arguments":[
-          "UC58LMAlfwtGRNR6Xpd4DlSA",
-          "channel"
-
-        ]
-      }
-	   ,
-      {
-              "title":"Arabic",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-
-        ]
-      }
-	   
-    ]
-  },
-	
-	
-  {
-    "title":"Flash News",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"FOX SPORTS",
-        "provider":"rss",
-        "arguments":[
-          "https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=soccer"
-
-
-        ]
-      },
-      {
-        "title":"Sky Sports",
-        "provider":"rss",
-        "arguments":[
-          "http://www.skysports.com/rss/12040"  ]
-      },
-      {
-        "title":"live",
-        "provider":"rss",
-        "arguments":[
-          "https://www.scorespro.com/rss2/live-soccer.xml"  ]
-      }
-    ]
-  },
-
-
-  
  {
     "title":"اخري",
     "drawable":"",
