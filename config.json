@@ -201,7 +201,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aladinapps.myapp.tascha3r.SettingsFragment", "fragment"
+          "com.aladinapps.tascha3r.SettingsFragment", "fragment"
         ]
       }
     ]
