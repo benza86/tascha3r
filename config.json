@@ -1,195 +1,21 @@
 [
-		  {
-    "title":"تسريحات الشعر سهلة",
+		 {
+   "title":"النتائج",
     "drawable":"",
-    "submenu":"فيديوهات",
+    "submenu":"نتائج المباريات",
     "iap":false,
     "tabs":[
-	       {
-        "title":"إبداعات ibda3at II",
-        "provider":"youtube",
-        "arguments":[
-          "UCgokeLXOBVyCk2B7hJjK9cA",
-          "channel"
-		]
-	       }
-	    ,
-	     {
-        "title":"روانه Rawana",
-        "provider":"youtube",
-        "arguments":[
-          "UCT9HCPqXTmEf84dEUDr44eQ",
-          "channel"
-		]
-	       }
-	    ,
-	    
-	     {
-        "title":"NorMina - مجلة نورمينا",
-        "provider":"youtube",
-        "arguments":[
-          "UCABynHp3mREQKDXx4gyyCXA",
-          "channel"
-		]
-	       }
-	    ,
-	       {
-        "title":"حواء Tv",
-        "provider":"youtube",
-        "arguments":[
-          "UCFbU05UvawdNQNqPuE1NYxA",
-          "channel"
-		]
-	       }
-	    ,
-	       {
-        "title":"Hayla TV ",
-        "provider":"youtube",
-        "arguments":[
-          "UCJlR_vpux2H2Y9fdZS9-e_A",
-          "channel"
-		]
-	       }
-	    ,
-	      {
-        "title":"Oumaima's Space فضاء أميمة",
-        "provider":"youtube",
-        "arguments":[
-          "UCrSCc686QLRBOxMxaQeMU0Q",
-          "channel"
-		]
-	       }
-	        ,
-	      {
-        "title":"Nora Beauty",
-        "provider":"youtube",
-        "arguments":[
-          "UCflqf6d0VbOysoz091-wHNQ",
-          "channel"
-		]
-	       }
-	    
-        ]
-      }
-	,  
-	 
- {
-    "title":"اخري",
-    "drawable":"",
-    "submenu":"ملخصات",
-    "iap":false,
-    "tabs":[
-
       {
-        "title":"Arabic Comm",
-        "provider":"youtube",
+        "title":"WebView",
+        "provider":"webview",
         "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-
-        ]
-      },
-	   {
-        "title":"Premier League",
-        "provider":"youtube",
-        "arguments":[
-          "UClnK5pKFEwAHpmCpUlZZ8Sw",
-          "channel"
-
-        ]
-      },
-	  	  	   {
-        "title":"Liga",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
-
-        ]
-      },
-	  	   {
-        "title":"French Ligue1",
-        "provider":"youtube",
-        "arguments":[
-          "UC58LMAlfwtGRNR6Xpd4DlSA",
-          "channel"
-
-        ]
-      },
-      {
-        "title":"Highlights & Goals ",
-        "provider":"youtube",
-        "arguments":[
-          "UCdyKwzOdSr76_Zov2B3i8ow",
-          "channel"
-        ]
-      }
-    ]
-  },
-	
-
-	 
-  {
-    "title":" FR برامج",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"Amical resumée",
-        "provider":"youtube",
-        "arguments":[
-          "UCP1cc6fUl_eVu114oZ75Qag",
-          "channel"
-        ]
-      },  
-   {
-        "title":"Le Sport avec CANAL",
-        "provider":"youtube",
-        "arguments":[
-          "UC8ggH3zU61XO0nMskSQwZdA",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Foot Mercato",
-        "provider":"youtube",
-        "arguments":[
-          "UCrzDtXyuSBch2u_31JJj-Dw",
-          "channel"
-
-        ]
-      }
-	    ,
-	    {
-        "title":"AFTER FOOT",
-        "provider":"youtube",
-        "arguments":[
-          "UCUdwSuEopnWNpibR9-dgciw",
-          "channel"
-
+          "https://fustany.com/ar/tags/%D8%AA%D8%B3%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%B4%D8%B9%D8%B1"
         ]
       }
     ]
 
-  },
-
-  {
-    "title":"Videos",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Categories",
-        "provider":"overview",
-        "arguments":[
-          "overview.json"
-        ]
-      }
-    ]
-  },
+  }
+	,
 
   {
     "title":"A propos",
